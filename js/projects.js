@@ -1,13 +1,15 @@
 console.log("Your index.js is loaded correctly");
 
-$(".topbottomimage").hover(function(){
-        $(this).animate({
-            width: "130%"},
-            'slow');
+// $('.navigation').on("click", function(){
+//     alert("thisworks");
+// });
+
+$('.projectimage').hover(function(){
+       $(this).animate({
+            height: "115%"
+    }, 'slow');
         }, function (){
             $(this).animate({
-                width: "100%"
+                height: "90%"
             }, 'slow');
-        }
-
-)
+        });

@@ -8,16 +8,16 @@
     padding: 1px;
     vertical-align: top;
 }
+
+.logoimage{
+    height: 18vh;
+}
+
 .logotext{
     font-family: 'ClassyBrune';
-    src: url('Classy Brune Italic.eot'); /* IE9 Compat Modes */
-    src: url('Classy Brune Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('Classy Brune Italic.woff') format('woff'), /* Modern Browsers */
-         url('Classy Brune Italic.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
     font-weight: normal;
     /* text-rendering: optimizeLegibility; */
-    font-size: 44;
+    font-size: 24px;
     color: #40075B;
     vertical-align: center;
     padding-top: 50px;
@@ -37,11 +37,12 @@ ul {
     list-style: none;
 }
 
-li{
+.navlist{
     padding-top: 10px;
     padding-right: 20px;
     padding-bottom: 10px;
     padding-left: 20px;
+    font-size: 18px;
 }
 
 .navHover:hover{
@@ -124,10 +125,8 @@ button:hover{
     width: 33%;
     align-content: flex-start;
     align-items: flex-start;
-    /* border: 3px solid purple; */
     display: flex;
-    flex-direction: row;
-
+    /* /* flex-direction: row; */
 }
 
 .left{
@@ -162,7 +161,7 @@ button:hover{
 .right{
     margin-top: 9vh;
     width: 30%;
-    border-left: .25vw solid #40075B;
+    /* border-left: .25vw solid #40075B; */
     display: flex;
     flex-direction: row;
     align-content: flex-start;
@@ -180,7 +179,6 @@ button:hover{
     grid-area: bullets;
 }
 .dot{
-
     height: 2vh;
     width: 2vh;
     background-color: #40075B;
@@ -189,6 +187,10 @@ button:hover{
     margin-bottom: 3vh;
     margin-left: -.5vw;
 }
+
+/* .dot1{
+    background-color: #648881;
+} */
 
 .skillsListBox{
     Margin-top: 0;
@@ -209,9 +211,29 @@ button:hover{
     /* padding-left: 2vh; */
 }
 
+footer{
+    clear:inline-start;
+    border-top:10px solid #ac8887;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
 
+.footer-inline-block {
+    clear: both;
+    display: inline-block;
+    align-items: center;
+    vertical-align: top;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: #ac8887;
+    font-family: 'ClassyBrune';
+}
 
-
+.container{
+    width: 100%; 
+    text-align: center;
+    margin-top: 15vh;
+}
 
 @media only screen and (max-width: 600px) {
     .flexContainer{
@@ -282,5 +304,6 @@ button:hover{
         padding-left: .6vw;
         padding-bottom: 0px;
         padding-top: .0vh;
+    }
 
 }
