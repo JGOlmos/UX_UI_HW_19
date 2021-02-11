@@ -7,80 +7,74 @@ $(document).ready(function(){
 });
 
 
-$(".dot1").animate({backgroundColor: "#648881"});
-$(".dot1").delay(3000).animate({backgroundColor: "#40075B"});
+$(".dot1").animate({backgroundColor: "#40075B"});
+$(".dot1").delay(3000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot2").delay(3000).animate({backgroundColor: "#648881"});
-$(".dot2").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot2").delay(3000).animate({backgroundColor: "#40075b"});
+$(".dot2").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot3").delay(4005).animate({backgroundColor: "#648881"});
-$(".dot3").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot3").delay(4025).animate({backgroundColor: "#40075b"});
+$(".dot3").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot4").delay(5005).animate({backgroundColor: "#648881"});
-$(".dot4").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot4").delay(5025).animate({backgroundColor: "#40075b"});
+$(".dot4").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot5").delay(6005).animate({backgroundColor: "#648881"});
-$(".dot5").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot5").delay(6025).animate({backgroundColor: "#40075b"});
+$(".dot5").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot6").delay(7005).animate({backgroundColor: "#648881"});
-$(".dot6").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot6").delay(7025).animate({backgroundColor: "#40075b"});
+$(".dot6").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot7").delay(8005).animate({backgroundColor: "#648881"});
-$(".dot7").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot7").delay(8025).animate({backgroundColor: "#40075b"});
+$(".dot7").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot8").delay(9005).animate({backgroundColor: "#648881"});
-$(".dot8").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot8").delay(9025).animate({backgroundColor: "#40075b"});
+$(".dot8").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot9").delay(10005).animate({backgroundColor: "#648881"});
-$(".dot9").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot9").delay(10025).animate({backgroundColor: "#40075b"});
+$(".dot9").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot10").delay(11005).animate({backgroundColor: "#648881"});
-$(".dot10").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot10").delay(11025).animate({backgroundColor: "#40075b"});
+$(".dot10").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot11").delay(12005).animate({backgroundColor: "#648881"});
-$(".dot11").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot11").delay(12025).animate({backgroundColor: "#40075b"});
+$(".dot11").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot12").delay(13005).animate({backgroundColor: "#648881"});
-$(".dot12").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot12").delay(13025).animate({backgroundColor: "#40075b"});
+$(".dot12").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot13").delay(14005).animate({backgroundColor: "#648881"});
-$(".dot13").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot13").delay(14025).animate({backgroundColor: "#40075b"});
+$(".dot13").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot14").delay(15005).animate({backgroundColor: "#648881"});
-$(".dot14").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot14").delay(15025).animate({backgroundColor: "#40075b"});
+$(".dot14").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot15").delay(16005).animate({backgroundColor: "#648881"});
-$(".dot15").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot15").delay(16025).animate({backgroundColor: "#40075b"});
+$(".dot15").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot16").delay(17005).animate({backgroundColor: "#648881"});
-$(".dot16").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot16").delay(17025).animate({backgroundColor: "#40075b"});
+$(".dot16").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot17").delay(18005).animate({backgroundColor: "#648881"});
-$(".dot17").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot17").delay(18025).animate({backgroundColor: "#40075b"});
+$(".dot17").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot18").delay(19005).animate({backgroundColor: "#648881"});
-$(".dot18").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot18").delay(19025).animate({backgroundColor: "#40075b"});
+$(".dot18").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot19").delay(20005).animate({backgroundColor: "#648881"});
-$(".dot19").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot19").delay(20025).animate({backgroundColor: "#40075b"});
+$(".dot19").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot20").delay(21005).animate({backgroundColor: "#648881"});
-$(".dot20").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot20").delay(21025).animate({backgroundColor: "#40075b"});
+$(".dot20").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot21").delay(22005).animate({backgroundColor: "#648881"});
-$(".dot21").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot21").delay(22025).animate({backgroundColor: "#40075b"});
+$(".dot21").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot22").delay(23005).animate({backgroundColor: "#648881"});
-$(".dot22").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot22").delay(23025).animate({backgroundColor: "#40075b"});
+$(".dot22").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot23").delay(24005).animate({backgroundColor: "#648881"});
-$(".dot23").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot23").delay(24025).animate({backgroundColor: "#40075b"});
+$(".dot23").delay(1000).animate({backgroundColor: "#fefcfd"});
 
-$(".dot24").delay(25005).animate({backgroundColor: "#648881"});
-$(".dot24").delay(1000).animate({backgroundColor: "#40075B"});
-
-$(".dot25").delay(26005).animate({backgroundColor: "#648881"});
-$(".dot25").delay(1000).animate({backgroundColor: "#40075B"});
-
-$(".dot26").delay(27005).animate({backgroundColor: "#648881"});
-$(".dot26").delay(1000).animate({backgroundColor: "#40075B"});
+$(".dot24").delay(25005).animate({backgroundColor: "#40075b"});
+$(".dot24").delay(1000).animate({backgroundColor: "#fefcfd"});

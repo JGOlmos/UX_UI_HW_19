@@ -71,7 +71,9 @@ h3{
 
 p {
     font-size: 18;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'kyrial-sans-pro';
+    font-weight: 300;
+    font-style: normal;
     text-align: center;
     color: #40075B;
 }
@@ -96,6 +98,7 @@ button:hover{
 
 .workGrid{
     display: grid;
+    margin-top: 40px;
     height: 900px;
     grid-template-rows: 33% 33% 34%;
     grid-row-gap: 5%;
@@ -206,6 +209,10 @@ button:hover{
     text-align: center;
     margin-top: 15vh;
 }
+.footertext{
+    color: #ac8887;
+}
+
 
   @media only screen and (max-width: 600) {
       .workGrid{

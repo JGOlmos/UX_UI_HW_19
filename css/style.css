@@ -68,11 +68,11 @@ ul {
 
 .headliner {
     background-color: #FFEFD3;
-    border-left: 5px solid purple;
+    border-left: 5px solid #40075B;
     position: absolute;
     align-items: center;
     right:30%;
-    top: 300px;
+    top: 250px;
     padding: 0 25px;
     max-width: 550px;
     z-index: 100;
@@ -157,12 +157,15 @@ h3{
 }
 p {
     font-size: 18;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'kyrial-sans-pro';
+    font-weight: 300;
+    font-style: normal;
     text-align: center;
     color: #40075B;
 }
 
 button{
+    margin: 20px 30px;
     background-color: #ffffff; 
     border: 3px solid #40075B;
     color:#40075B;
@@ -172,10 +175,15 @@ button{
     display: inline-block;
     font-size: 16px;
     border-radius: 8px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'kyrial-sans-pro';
+    font-weight: 500;
     font-style: normal;
+    color: #40075B;
 }
 
+a{
+    color:#40075B;
+}
 .resume{
     grid-area: resume;
 }
@@ -187,6 +195,9 @@ button:hover{
     background-color: #FFEFD3;
 }
 
+.footertext{
+    color: #ac8887;
+}
 
 @media only screen and (max-width: 600px) {
     .aboutme{
